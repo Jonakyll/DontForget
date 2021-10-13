@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DontForget</string>
+    <string name="button_add">ajouter</string>
+    <string name="button_update">modifier</string>
+    <string name="button_delete_all">tout supprimer</string>
+    <string name="button_hour">heure</string>
+    <string name="et_message">message</string>
+    <string name="button_date">date</string>
+    <string name="rb_once">une fois</string>
+    <string name="rb_daily">tous les jours</string>
+    <string name="rb_weekly">toutes les semaines</string>
+    <string name="button_delete">supprimer</string>
+    <string name="monday">lundi</string>
+    <string name="tuesday">mardi</string>
+    <string name="wednesday">mercredi</string>
+    <string name="thursday">jeudi</string>
+    <string name="friday">vendredi</string>
+    <string name="saturday">samedi</string>
+    <string name="sunday">dimanche</string>
+    <string name="d_delete_all">Etes-vous sûr de vouloir supprimer tous les rappels?</string>
+    <string name="yes">oui</string>
+    <string name="no">non</string>
+</resources>

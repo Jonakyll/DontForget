@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">DontForget</string>
+    <string name="button_add">add</string>
+    <string name="button_update">update</string>
+    <string name="button_delete_all">delete all</string>
+    <string name="button_hour">hour</string>
+    <string name="et_message">message</string>
+    <string name="button_date">date</string>
+    <string name="rb_once">once</string>
+    <string name="rb_daily">daily</string>
+    <string name="rb_weekly">weekly</string>
+    <string name="button_delete">delete</string>
+    <string name="monday">monday</string>
+    <string name="tuesday">tuesday</string>
+    <string name="wednesday">wednesday</string>
+    <string name="thursday">thursday</string>
+    <string name="friday">friday</string>
+    <string name="saturday">saturday</string>
+    <string name="sunday">sunday</string>
+    <string name="d_delete_all">Are you sure you want to delete all reminders?</string>
+    <string name="yes">yes</string>
+    <string name="no">no</string>
+</resources>
